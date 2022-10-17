@@ -1,0 +1,1 @@
+Hello, this is a readme file and here i just want to say to you guys that i am trying to learn git with this little folder here thank you for reading this readme file.
